@@ -1,0 +1,57 @@
+.sms-nav{
+	
+}
+
+.sms-search{
+	padding: 10px;
+}
+
+.sms-home-heading{
+	color: #EA4335;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.sms-meta{
+	font-size: 11px;
+}
+
+.sms-event{
+	color: #000;
+}
+
+.sms-comments{
+	background-color: #eee;
+	padding: 10px;
+}
+
+.sms-footer{
+	border-top: 1px #ccc solid;
+	padding: 20px;
+	margin-top: 10px;
+	text-align: center;
+	
+}
+
+.sms-right-sidebar{
+	border-left: 1px #ccc solid;
+	padding-left: 15px;
+}
+
+.sms-footer-nav ul li{
+	list-style: none;
+	float: left;
+	margin-right: 10px;
+	padding-right: 10px;
+	border-right: 1px solid #000;
+}
+.sms-menu-class{
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+.media{
+	border-bottom: 1px dotted #ccc;
+}
+.media:last-of-type{
+	border-bottom: none;
+}
