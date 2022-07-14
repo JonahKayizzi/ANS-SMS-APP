@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+# private/protected/config/main.php
+# private/protected/config/console.php
+# public/wp-config.php
+yii/*
+# occurrences/protected/config/main.php
+private/assets/*
+!private/assets/.gitignore
+private/runtime/*
+!private/runtime/.gitignore
+private/protected/runtime/application.log
+private/index.php
+index.php

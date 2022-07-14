@@ -1,0 +1,17 @@
+[03-Nov-2015 02:50:16 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/africaclouds/public_html/sms/occurrences/protected/views/incidents/_form.php on line 238
+[03-Nov-2015 02:53:13 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/africaclouds/public_html/sms/occurrences/protected/views/incidents/_form.php on line 238
+[08-Nov-2015 08:45:00 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/africaclouds/public_html/sms/occurrences/protected/views/incidents/_form.php on line 55
+[25-Jan-2016 07:43:12 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/africaclouds/public_html/sms/occurrences/protected/models/LoginForm.php on line 33
+[08-Feb-2016 06:46:57 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:47:34 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:49:06 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:49:39 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:53:18 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:54:15 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:56:20 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[08-Feb-2016 06:57:21 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/africaclouds/public_html/sms/occurrences/protected/models/Incidents.php on line 221
+[17-Apr-2016 18:13:49 America/New_York] PHP Warning:  Module 'suhosin' already loaded in Unknown on line 0
+[17-Apr-2016 18:13:50 America/New_York] PHP Warning:  Module 'suhosin' already loaded in Unknown on line 0
+[18-Apr-2016 18:07:48 America/New_York] PHP Warning:  Module 'suhosin' already loaded in Unknown on line 0
+[19-Apr-2016 12:32:27 America/New_York] PHP Warning:  Module 'suhosin' already loaded in Unknown on line 0
+[19-Apr-2016 12:32:29 America/New_York] PHP Warning:  Module 'suhosin' already loaded in Unknown on line 0
